@@ -57,6 +57,7 @@ dependencies:
   #cached image
   cached_network_image: ^3.2.3
   dio: ^5.3.2
+  logger: ^2.0.1
 
 
 
